@@ -1,8 +1,8 @@
 <package>
   <name>vsnt_teleop</name>
   <version>0.0.1</version>
-  <description>vsnt_teleop enables sailboat control with a joystick by
-     processing joy/Joy messages and translating them to joint msgs.</description>
+  <description>vsnt_teleop enables boat control with a joystick-like device by
+     processing joy/Joy messages and translating them to mavros_msgs/RCIn.</description>
   <maintainer email="davihenriqueds@gmail.com">Davi Henrique</maintainer>
 
   <license>BSD</license>
