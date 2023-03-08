@@ -15,7 +15,7 @@
   <node name="teleop" pkg="vsnt_teleop" type="vsnt_teleop" output="screen">
     <rosparam subst_value="true">
       thrust_axis: -6
-      yaw_axis: 4
+      yaw_axis: -4
 
       thrust_max: 500
       thrust_offset: 1500
